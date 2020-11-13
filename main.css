@@ -1,5 +1,5 @@
 nav{
-    background-color: lightblue;
+    background-color: whitesmoke;
     position: fixed;
     top: 0px;
     left: 0px;
@@ -10,12 +10,24 @@ nav{
 
 nav ul li{
     display: inline-block;
-    color: blue;
+    color: white;
     font-weight: bold;
-    margin-right: 20px;
+    margin-right: 10px;
+    background-color:blue;
+    font-size: 50;
 
 }
 
 nav ul{
     text-align: right;
 }
+
+input{
+    margin-top: 60px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    left: 0px;
+
+ 
+}
+
